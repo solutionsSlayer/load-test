@@ -74,14 +74,10 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-2. Run tests:
-```bash
-./run_tests.sh  # On Windows: run_tests.bat
-```
+
 
 3. View results:
 - Real-time dashboard: http://localhost:8089
-- Detailed report: open detailed_report.html
 
 ### Problèmes Connus
 
