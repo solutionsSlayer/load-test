@@ -5,3 +5,9 @@ node_modules/
 .next
 .zenstack_repl_history
 .idea
+
+# Load Testing
+test/load/venv/
+test/load/__pycache__/
+test/load/*.pyc
+test/load/locust_stats.csv
